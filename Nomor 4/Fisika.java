@@ -21,7 +21,7 @@ class variabel {
     }
 }
 
-public class Main {
+public class Fisika {
      public static void main (String[]orgs){
          
      variabel hasil1 = new variabel (12, 9.8, 30);
